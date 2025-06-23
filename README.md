@@ -15,11 +15,9 @@ Check out the live version of my portfolio: https://sachin-kumar-singh.netlify.a
 - TypeScript
 - GraphQL
 
-## 📫 How to reach me
-📧 sk7505875@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/sachin-kumar-singh)  
-🐦 [Twitter](https://twitter.com/yourhandle)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-kumar-singh-5a193522a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+📧 sk7505875@gmail.com
