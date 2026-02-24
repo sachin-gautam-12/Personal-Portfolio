@@ -1,5 +1,5 @@
 # Personal-Portfolio
-Check out the live version of my portfolio: https://sachin-kumar-singh.netlify.app/
+Check out the live version of my portfolio: https://sachin-kumar-singh-portfolio.netlify.app/
 
 # Hi there, I'm Sachin Kumar Singh 👋
 
